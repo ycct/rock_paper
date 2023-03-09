@@ -1,16 +1,6 @@
-# rock_paper
+## Mantıksal kısım algo_logic.dart dosyasındadır.
 
-A new Flutter project.
+## Video
 
-## Getting Started
+https://user-images.githubusercontent.com/35145117/224046719-ae96788d-899e-43dd-8927-c026ece4fd57.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
